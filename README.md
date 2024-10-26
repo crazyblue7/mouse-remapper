@@ -12,8 +12,7 @@ If you use Arch, or an Arch-based distro, run
 $ sudo pacman -S libx11 libxtst
 
 # absolutely extremely important note
-mouse-remapper ONLY SUPPORTS 
-# x11,
+# mouse-remapper ONLY SUPPORTS X11
 it doesnt support wayland due to restrictions
 
 # how do i use the mouse remapper aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
